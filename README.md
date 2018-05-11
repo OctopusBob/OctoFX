@@ -1,4 +1,4 @@
-OctoFX is a sample application, built to demonstrate how a multi-tier application can be deployed using Octopus Deploy used for demos purposes.  Another update.
+OctoFX is a sample application, built to demonstrate how a multi-tier application can be deployed using Octopus Deploy used for demos purposes.
 
 
 
