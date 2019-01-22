@@ -1,3 +1,3 @@
 ﻿& .\OctoFX.Database.exe
 
-Write-Host "Testing"
+Write-Host "Testing 2"
